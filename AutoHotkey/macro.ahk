@@ -170,6 +170,7 @@ sc009::Send("{F16}")
 ::<red::https://www.reddit.com/user/MeibboS/
 ::<ins::https://www.instagram.com/mophiren/
 ::<mail::vic_alejandronavas@outlook.com
+::<amail::victorelguapito@hotmail.com
 ::<ti::
 {
     FormatTime := Format("{:02}:{:02}", A_Hour, A_Min)
