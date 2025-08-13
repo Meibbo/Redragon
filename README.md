@@ -20,12 +20,6 @@ And this is the Brazilian keyboard layout:
 
 # <mark class="hltr-green">Shortcuts</mark>
 
-`````col
-````col-md
-flexGrow=1
-===
-### 🖐 Mano Izquierda
-
 |💡 Combinación de Teclas|💫 Acción|
 |---|---|
 |`Ctrl` + `Insert`|`PrintScreen`|
@@ -38,10 +32,6 @@ flexGrow=1
 |`Alt` + `-`|`—` (em dash)|
 |`Alt` + `Shift` + `Delete`|Alterna `CapsLock`|
 
-````
-````col-md
-flexGrow=1
-===
 ### 🔚 Mano Derecha
 
 |💡 Combinación de Teclas|🌟 Acción|
@@ -65,8 +55,6 @@ flexGrow=1
 |`Alt` + `Num /`|`^`|
 |`Shift` + `Num *`|`~`|
 |`Alt` + `Num *`|`+`|
-````
-`````
 
 ### 🧭 Navigation
 
