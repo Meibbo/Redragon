@@ -9,14 +9,14 @@ La tecla FN2 parece tener asignación fija en la tecla K60.
 
 por defecto, las teclas al presionarse activan los LED de toda su columna un poquito.
 [[meibbo tweaks.ahk]] — [[Cfg V7.ini]] — ![[macro.ahk]]— ![[macros.psd]]
-# <mark class="hltr-blue">Keymaps</mark>
+# <mark>Keymaps</mark>
 
-![[Captura de pantalla 2025-07-29 070521.png|800]]
+![](keyboard-iso.png)
 
 
 And this is the Brazilian keyboard layout:
 
-![[keyimg.png]]
+![](keyboard-bra.png)
 
 # <mark class="hltr-green">Shortcuts</mark>
 
@@ -78,7 +78,7 @@ And this is the Brazilian keyboard layout:
 | `Win` + `Ctrl` + `X` _//_          | desk (`→`)           |
 | `Win` + `Ctrl` + `Z` _//_          | desk (`←`)           |
 
-# <mark class="hltr-blue">Lista de scancodes</mark>
-![[Captura de pantalla 2025-07-08 223301.png]]Distribución del teclado en layout ISO-105 que es el español latino y sus scancodes físicos.
+# <mark>Lista de scancodes</mark>
+![](keyboard-isoscancodes.png) Distribución del teclado en layout ISO-105 que es el español latino y sus scancodes físicos.
 
 [[Virtual-Key Codes Win32 apps]]
